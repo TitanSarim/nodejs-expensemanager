@@ -1,0 +1,134 @@
+[
+    {
+      "expenseid": 1,
+      "expenseCategory": "Food",
+      "expensename": "Lunch",
+      "description": "Meal at a restaurant",
+      "totalAmount": 20.0,
+      "paidAmount": 15.0,
+      "remainingAmount": 5.0,
+      "image": "restaurant_receipt.jpg",
+      "createdAt": "2023-08-23T12:00:00Z"
+    },
+    {
+      "expenseid": 2,
+      "expenseCategory": "Transportation",
+      "expensename": "Bus Fare",
+      "description": "Bus ticket for daily commute",
+      "totalAmount": 10.0,
+      "paidAmount": 10.0,
+      "remainingAmount": 0.0,
+      "image": "bus_ticket.jpg",
+      "createdAt": "2023-08-23T08:30:00Z"
+    },
+    {
+        "expenseid": 3,
+        "expenseCategory": "Food",
+        "expensename": "Lunch",
+        "description": "Meal at a restaurant",
+        "totalAmount": 20.0,
+        "paidAmount": 15.0,
+        "remainingAmount": 5.0,
+        "image": "restaurant_receipt.jpg",
+        "createdAt": "2023-08-23T12:00:00Z"
+    },
+    {
+        "expenseid": 4,
+        "expenseCategory": "Transportation",
+        "expensename": "Bus Fare",
+        "description": "Bus ticket for daily commute",
+        "totalAmount": 10.0,
+        "paidAmount": 10.0,
+        "remainingAmount": 0.0,
+        "image": "bus_ticket.jpg",
+        "createdAt": "2023-08-23T08:30:00Z"
+    },
+    {
+        "expenseid": 5,
+        "expenseCategory": "Food",
+        "expensename": "Lunch",
+        "description": "Meal at a restaurant",
+        "totalAmount": 20.0,
+        "paidAmount": 15.0,
+        "remainingAmount": 5.0,
+        "image": "restaurant_receipt.jpg",
+        "createdAt": "2023-08-23T12:00:00Z"
+    },
+    {
+        "expenseid": 6,
+        "expenseCategory": "Transportation",
+        "expensename": "Bus Fare",
+        "description": "Bus ticket for daily commute",
+        "totalAmount": 10.0,
+        "paidAmount": 10.0,
+        "remainingAmount": 0.0,
+        "image": "bus_ticket.jpg",
+        "createdAt": "2023-08-23T08:30:00Z"
+    },
+    {
+      "expenseid": 7,
+      "expenseCategory": "Food",
+      "expensename": "Lunch",
+      "description": "Meal at a restaurant",
+      "totalAmount": 20.0,
+      "paidAmount": 15.0,
+      "remainingAmount": 5.0,
+      "image": "restaurant_receipt.jpg",
+      "createdAt": "2023-08-23T12:00:00Z"
+    },
+    {
+      "expenseid": 8,
+      "expenseCategory": "Transportation",
+      "expensename": "Bus Fare",
+      "description": "Bus ticket for daily commute",
+      "totalAmount": 10.0,
+      "paidAmount": 10.0,
+      "remainingAmount": 0.0,
+      "image": "bus_ticket.jpg",
+      "createdAt": "2023-08-23T08:30:00Z"
+    },
+    {
+        "expenseid": 9,
+        "expenseCategory": "Food",
+        "expensename": "Lunch",
+        "description": "Meal at a restaurant",
+        "totalAmount": 20.0,
+        "paidAmount": 15.0,
+        "remainingAmount": 5.0,
+        "image": "restaurant_receipt.jpg",
+        "createdAt": "2023-08-23T12:00:00Z"
+    },
+    {
+        "expenseid": 10,
+        "expenseCategory": "Transportation",
+        "expensename": "Bus Fare",
+        "description": "Bus ticket for daily commute",
+        "totalAmount": 10.0,
+        "paidAmount": 10.0,
+        "remainingAmount": 0.0,
+        "image": "bus_ticket.jpg",
+        "createdAt": "2023-08-23T08:30:00Z"
+    },
+    {
+        "expenseid": 11,
+        "expenseCategory": "Food",
+        "expensename": "Lunch",
+        "description": "Meal at a restaurant",
+        "totalAmount": 20.0,
+        "paidAmount": 15.0,
+        "remainingAmount": 5.0,
+        "image": "restaurant_receipt.jpg",
+        "createdAt": "2023-08-23T12:00:00Z"
+    },
+    {
+        "expenseid": 12,
+        "expenseCategory": "Transportation",
+        "expensename": "Bus Fare",
+        "description": "Bus ticket for daily commute",
+        "totalAmount": 10.0,
+        "paidAmount": 10.0,
+        "remainingAmount": 0.0,
+        "image": "bus_ticket.jpg",
+        "createdAt": "2023-08-23T08:30:00Z"
+    }
+  ]
